@@ -94,7 +94,7 @@ Le champ texte utilise une police de type monospace pour faciliter la lecture et
 
 ## 🖼 Capture d’écran
 
-
+![Exemple 1](Assets/capture1.png)
 
 
 ---
