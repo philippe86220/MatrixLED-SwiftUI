@@ -96,7 +96,9 @@ Le champ texte utilise une police de type monospace pour faciliter la lecture et
 
 ![Exemple 1](Assets/capture1.png)
 
+---
 
+![Resultat 1](Assets/IMG_2307.jpg)
 ---
 
 ## 🧪 Idées d’utilisation
