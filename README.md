@@ -15,9 +15,6 @@ Ces 4 mots hexadécimaux sont pensés pour être utilisés dans la fonction `mat
 - Afficher ces 4 mots au format **hexadécimal** (`0x????????`), prêts à être copiés/collés dans du code C/C++.
 
 L’idée est de pouvoir concevoir visuellement des motifs (cœurs, lettres, icônes…) puis de récupérer directement leur représentation binaire pour un programme embarqué.  
-Un clic sur une case grise la met en bleu,  
-Un clic sur une case bleue la met en gris.
--> Les cases bleues sont prises en compte comme des LEDs allumées.
 
 ---
 
